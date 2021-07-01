@@ -28,11 +28,9 @@ struct ___VARIABLE_moduleName___View<ViewModel: ___VARIABLE_moduleName___ViewMod
 //    }
 //
 //    static var previews: some View {
-//        Group {
-//            ___VARIABLE_moduleName___View(viewModel: ViewModelStub())
-//                .previewDevice("iPhone SE (1st generation)")
-//            ___VARIABLE_moduleName___View(viewModel: ViewModelStub())
-//                .previewDevice("iPhone 12 mini")
-//        }
+//        ___VARIABLE_moduleName___View(viewModel: ViewModelStub())
+//            .previewDevice("iPhone SE (1st generation)")
+//        ___VARIABLE_moduleName___View(viewModel: ViewModelStub())
+//            .previewDevice("iPhone 12 mini")
 //    }
 //}
